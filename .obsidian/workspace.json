@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ea177f6e8240583",
+        "id": "767da90b4387e9aa",
         "type": "tabs",
         "children": [
           {
-            "id": "bc26bb8706c3a3b2",
+            "id": "51c8e96b7d3b010a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-04-20.md",
+                "file": "JS DEEP DIVE/18장 - 클로저.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-04-20.md",
+                "file": "JS DEEP DIVE/18장 - 클로저.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-04-20.md",
+                "file": "JS DEEP DIVE/18장 - 클로저.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-04-20.md"
+                "file": "JS DEEP DIVE/18장 - 클로저.md"
               }
             }
           },
@@ -155,28 +155,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bc26bb8706c3a3b2",
+  "active": "51c8e96b7d3b010a",
   "lastOpenFiles": [
     "JS DEEP DIVE/20 - 객체지향 프로그래밍.md",
-    "TIL/2023-04-20.md",
+    "JS DEEP DIVE/18장 - 클로저.md",
+    "JS DEEP DIVE/17장 - this.md",
+    "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
     "책 감상/세이노의 가르침 - 세이노.md",
+    "JS DEEP DIVE/16장 - Strict mode.md",
+    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
+    "TIL/2023-04-20.md",
     "책 감상",
     "소소한 정보/swagger를 편하게 사용하기! (node-express 환경).md",
     "TIL/2023-04-19.md",
-    "JS DEEP DIVE/18장 - 클로저.md",
     "TIL/TIL Template.md",
     "TIL/2023-04-17.md",
     "TIL/2023-04-18.md",
     "JS DEEP DIVE/15장 - 스코프.md",
-    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
     "유용한 사이트.md",
     "유용한 사이트",
     "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
-    "JS DEEP DIVE/16장 - Strict mode.md",
     "JS DEEP DIVE/3장 - 자바스크립트 개발 환경과 실행 방법.md",
     "JS DEEP DIVE/2장 - 자바스크립트란.md",
     "TIL/2023-04-15.md",
-    "JS DEEP DIVE/17장 - this.md",
     "JS DEEP DIVE/1장 - 프로그래밍.md",
     "JS DEEP DIVE/4장 - 브라우저 동작 원리.md",
     "JS DEEP DIVE/5장 - 자바스크립트의 기본 문법.md",
@@ -184,7 +185,6 @@
     "JS DEEP DIVE/7장 - 연산자.md",
     "JS DEEP DIVE/8장 - 제어문.md",
     "JS DEEP DIVE/9장 - 타입 변환과 단축 평가.md",
-    "JS DEEP DIVE/10장 - 객체.md",
     "Pasted image 20230413171816.png",
     "알고리즘",
     "Untitled.canvas",
