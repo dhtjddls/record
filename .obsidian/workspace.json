@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "992ff8631b60ce3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS DEEP DIVE/18장 - 클로저.md",
+                "file": "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS DEEP DIVE/18장 - 클로저.md",
+                "file": "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS DEEP DIVE/18장 - 클로저.md"
+                "file": "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md"
               }
             }
           },
@@ -155,10 +168,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51c8e96b7d3b010a",
+  "active": "992ff8631b60ce3c",
   "lastOpenFiles": [
-    "JS DEEP DIVE/20 - 객체지향 프로그래밍.md",
+    "Pasted image 20230421113516.png",
     "JS DEEP DIVE/18장 - 클로저.md",
+    "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
+    "JS DEEP DIVE/20 - 객체지향 프로그래밍.md",
     "JS DEEP DIVE/17장 - this.md",
     "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
     "책 감상/세이노의 가르침 - 세이노.md",
@@ -183,8 +198,6 @@
     "JS DEEP DIVE/5장 - 자바스크립트의 기본 문법.md",
     "JS DEEP DIVE/6장 - 데이터 타입과 변수.md",
     "JS DEEP DIVE/7장 - 연산자.md",
-    "JS DEEP DIVE/8장 - 제어문.md",
-    "JS DEEP DIVE/9장 - 타입 변환과 단축 평가.md",
     "Pasted image 20230413171816.png",
     "알고리즘",
     "Untitled.canvas",
