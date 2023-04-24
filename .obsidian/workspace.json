@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "6066dd1cdcb99362",
+    "type": "split",
+    "children": [
+      {
+        "id": "6153d8096b170c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "286e922f5f411269",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bec20c6fe8c8955a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cb2563b4c6dedc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad7399bbfb45d526",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4db686c25a5434b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5013acce46cc2cfc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f7d54bb50ffd0ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4356de9b662d97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d091dae19bc9571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0465b09bbb443ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1e9b011c84d47a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bc3dbb131f6bfd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "386d85c713d3d763",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "286e922f5f411269",
+  "lastOpenFiles": [
+    "소소한 정보/express 더 깔끔한 logging하기! (with morgan).md",
+    "TIL/2023-04-22.md",
+    "유용한 사이트.md",
+    "TIL/2023-04-21.md",
+    "TIL/2023-04-20.md",
+    "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
+    "JS DEEP DIVE/18장 - 클로저.md",
+    "Pasted image 20230421113516.png",
+    "JS DEEP DIVE/20 - 객체지향 프로그래밍.md",
+    "JS DEEP DIVE/17장 - this.md",
+    "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
+    "책 감상/세이노의 가르침 - 세이노.md",
+    "JS DEEP DIVE/16장 - Strict mode.md",
+    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
+    "책 감상",
+    "소소한 정보/swagger를 편하게 사용하기! (node-express 환경).md",
+    "TIL/2023-04-19.md",
+    "TIL/TIL Template.md",
+    "TIL/2023-04-17.md",
+    "TIL/2023-04-18.md",
+    "JS DEEP DIVE/15장 - 스코프.md",
+    "유용한 사이트",
+    "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
+    "JS DEEP DIVE/3장 - 자바스크립트 개발 환경과 실행 방법.md",
+    "JS DEEP DIVE/2장 - 자바스크립트란.md",
+    "TIL/2023-04-15.md",
+    "JS DEEP DIVE/1장 - 프로그래밍.md",
+    "JS DEEP DIVE/4장 - 브라우저 동작 원리.md",
+    "JS DEEP DIVE/5장 - 자바스크립트의 기본 문법.md",
+    "Pasted image 20230413171816.png",
+    "알고리즘",
+    "Untitled.canvas",
+    "CLEAN CODE",
+    "JS DEEP DIVE",
+    "정리된 정보",
+    "소소한 정보",
+    "WIL",
+    "TIL"
+  ]
+}
