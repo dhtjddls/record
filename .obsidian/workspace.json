@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6153d8096b170c92",
+        "id": "92db91348036f72f",
         "type": "tabs",
         "children": [
           {
-            "id": "286e922f5f411269",
+            "id": "f342b0baf9a70a15",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md"
+              }
             }
           },
           {
@@ -147,12 +155,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "286e922f5f411269",
+  "active": "f342b0baf9a70a15",
   "lastOpenFiles": [
-    "소소한 정보/express 더 깔끔한 logging하기! (with morgan).md",
-    "TIL/2023-04-22.md",
+    "TIL/2023-04-24.md",
     "유용한 사이트.md",
     "TIL/2023-04-21.md",
+    "TIL/2023-04-22.md",
+    "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
+    "소소한 정보/bcryptjs 사용기.md",
+    "소소한 정보/express 더 깔끔한 logging하기! (with morgan).md",
     "TIL/2023-04-20.md",
     "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
     "JS DEEP DIVE/18장 - 클로저.md",
@@ -175,9 +186,6 @@
     "JS DEEP DIVE/3장 - 자바스크립트 개발 환경과 실행 방법.md",
     "JS DEEP DIVE/2장 - 자바스크립트란.md",
     "TIL/2023-04-15.md",
-    "JS DEEP DIVE/1장 - 프로그래밍.md",
-    "JS DEEP DIVE/4장 - 브라우저 동작 원리.md",
-    "JS DEEP DIVE/5장 - 자바스크립트의 기본 문법.md",
     "Pasted image 20230413171816.png",
     "알고리즘",
     "Untitled.canvas",
