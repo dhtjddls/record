@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "92db91348036f72f",
+        "id": "a79824ef869f3632",
         "type": "tabs",
         "children": [
           {
-            "id": "f342b0baf9a70a15",
+            "id": "54c17aa1057ee9e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유용한 사이트.md",
+                "file": "TIL/2023-04-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유용한 사이트.md",
+                "file": "TIL/2023-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유용한 사이트.md",
+                "file": "TIL/2023-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유용한 사이트.md"
+                "file": "TIL/2023-04-25.md"
               }
             }
           },
@@ -155,10 +155,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f342b0baf9a70a15",
+  "active": "54c17aa1057ee9e4",
   "lastOpenFiles": [
-    "TIL/2023-04-25.md",
     "유용한 사이트.md",
+    "TIL/2023-04-25.md",
     "Pasted image 20230421113516.png",
     "Pasted image 20230413171816.png",
     "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
