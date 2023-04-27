@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-04-26.md",
+                "file": "TIL/2023-04-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-04-26.md",
+                "file": "TIL/2023-04-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-04-26.md",
+                "file": "TIL/2023-04-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-04-26.md"
+                "file": "TIL/2023-04-27.md"
               }
             }
           },
@@ -157,12 +157,13 @@
   },
   "active": "f353a9f177a507cc",
   "lastOpenFiles": [
+    "유용한 사이트.md",
+    "TIL/2023-04-27.md",
     "TIL/2023-04-26.md",
     "JS DEEP DIVE/ECMA6 매개변수 기본값, Rest 파라미터, Spread 문법, Rest, Spread 프로퍼티.md",
     "JS DEEP DIVE/ECMA6 디스트럭처링(구조분해).md",
     "JS DEEP DIVE/ECMA6 객체 리터럴 프로퍼티 기능 확장.md",
     "TIL/2023-04-25.md",
-    "유용한 사이트.md",
     "Pasted image 20230421113516.png",
     "Pasted image 20230413171816.png",
     "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
@@ -185,7 +186,6 @@
     "TIL/2023-04-19.md",
     "TIL/TIL Template.md",
     "TIL/2023-04-17.md",
-    "TIL/2023-04-18.md",
     "유용한 사이트",
     "알고리즘",
     "Untitled.canvas",
