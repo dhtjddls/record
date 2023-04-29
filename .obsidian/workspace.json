@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md",
+                "file": "TIL/2023-04-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md",
+                "file": "TIL/2023-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md",
+                "file": "TIL/2023-04-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md"
+                "file": "TIL/2023-04-28.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "9460e17a6980614b",
   "lastOpenFiles": [
-    "JS DEEP DIVE/ECMA6 이터레이션과 for...of 문.md",
     "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md",
+    "JS DEEP DIVE/ECMA6 이터레이션과 for...of 문.md",
     "TIL/2023-04-28.md",
     "JS DEEP DIVE/ECMA6 매개변수 기본값, Rest 파라미터, Spread 문법, Rest, Spread 프로퍼티.md",
     "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
