@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "유용한 사이트.md",
+                "file": "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유용한 사이트.md",
+                "file": "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유용한 사이트.md",
+                "file": "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유용한 사이트.md"
+                "file": "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md"
               }
             }
           },
@@ -157,23 +157,26 @@
   },
   "active": "9460e17a6980614b",
   "lastOpenFiles": [
-    "TIL/2023-04-29.md",
-    "TIL/TIL Template.md",
-    "유용한 사이트.md",
+    "TIL/2023-04-25.md",
+    "TIL/2023-04-26.md",
+    "TIL/2023-04-27.md",
     "TIL/2023-04-28.md",
+    "TIL/2023-04-29.md",
+    "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
+    "WIL/WIL Template.md",
+    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
+    "TIL/2023-04-24.md",
+    "유용한 사이트.md",
+    "TIL/TIL Template.md",
     "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md",
     "JS DEEP DIVE/ECMA6 이터레이션과 for...of 문.md",
     "JS DEEP DIVE/ECMA6 매개변수 기본값, Rest 파라미터, Spread 문법, Rest, Spread 프로퍼티.md",
     "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
-    "TIL/2023-04-27.md",
-    "TIL/2023-04-26.md",
     "JS DEEP DIVE/ECMA6 디스트럭처링(구조분해).md",
     "JS DEEP DIVE/ECMA6 객체 리터럴 프로퍼티 기능 확장.md",
-    "TIL/2023-04-25.md",
     "Pasted image 20230421113516.png",
     "Pasted image 20230413171816.png",
     "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
-    "TIL/2023-04-24.md",
     "TIL/2023-04-21.md",
     "TIL/2023-04-22.md",
     "소소한 정보/bcryptjs 사용기.md",
@@ -182,9 +185,6 @@
     "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
     "JS DEEP DIVE/18장 - 클로저.md",
     "JS DEEP DIVE/20 - 객체지향 프로그래밍.md",
-    "JS DEEP DIVE/17장 - this.md",
-    "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
-    "책 감상/세이노의 가르침 - 세이노.md",
     "책 감상",
     "유용한 사이트",
     "알고리즘",
