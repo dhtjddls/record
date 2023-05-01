@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d1d67acbafb488",
+        "id": "a279bfd68476fd83",
         "type": "tabs",
         "children": [
           {
-            "id": "9460e17a6980614b",
+            "id": "4e1ae376dc577224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,18 +147,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9460e17a6980614b",
+  "active": "4e1ae376dc577224",
   "lastOpenFiles": [
+    "소소한 정보/jest report 자동화하기 (with jest-html-reporter).md",
+    "jest-report.png",
+    "유용한 사이트.md",
+    "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
     "TIL/2023-04-25.md",
     "TIL/2023-04-26.md",
     "TIL/2023-04-27.md",
     "TIL/2023-04-28.md",
     "TIL/2023-04-29.md",
-    "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
     "WIL/WIL Template.md",
     "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
     "TIL/2023-04-24.md",
-    "유용한 사이트.md",
     "TIL/TIL Template.md",
     "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md",
     "JS DEEP DIVE/ECMA6 이터레이션과 for...of 문.md",
@@ -183,8 +177,6 @@
     "소소한 정보/express 더 깔끔한 logging하기! (with morgan).md",
     "TIL/2023-04-20.md",
     "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
-    "JS DEEP DIVE/18장 - 클로저.md",
-    "JS DEEP DIVE/20 - 객체지향 프로그래밍.md",
     "책 감상",
     "유용한 사이트",
     "알고리즘",
