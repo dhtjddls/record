@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-05-01.md",
+                "file": "TIL/2023-05-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-05-01.md",
+                "file": "TIL/2023-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-05-01.md",
+                "file": "TIL/2023-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-05-01.md"
+                "file": "TIL/2023-05-02.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "7f897a89abf75e3e",
   "lastOpenFiles": [
-    "유용한 사이트.md",
     "TIL/2023-05-01.md",
+    "TIL/2023-05-02.md",
+    "유용한 사이트.md",
     "TypeScript_Handbook",
     "소소한 정보/jest report 자동화하기 (with jest-html-reporter).md",
     "jest-report.png",
@@ -186,7 +187,6 @@
     "소소한 정보/bcryptjs 사용기.md",
     "소소한 정보/express 더 깔끔한 logging하기! (with morgan).md",
     "TIL/2023-04-20.md",
-    "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
     "책 감상",
     "유용한 사이트",
     "알고리즘",
