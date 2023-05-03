@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "974a16b815a18e1e",
+        "id": "783f949dd6516e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "7f897a89abf75e3e",
+            "id": "421bf8f500f7885d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-05-02.md",
+                "file": "TIL/2023-05-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-05-02.md",
+                "file": "TIL/2023-05-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-05-02.md",
+                "file": "TIL/2023-05-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-05-02.md"
+                "file": "TIL/2023-05-03.md"
               }
             }
           },
@@ -155,10 +155,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7f897a89abf75e3e",
+  "active": "421bf8f500f7885d",
   "lastOpenFiles": [
-    "TIL/2023-05-01.md",
+    "TIL/2023-05-03.md",
     "TIL/2023-05-02.md",
+    "TIL/2023-05-01.md",
     "유용한 사이트.md",
     "TypeScript_Handbook",
     "소소한 정보/jest report 자동화하기 (with jest-html-reporter).md",
@@ -186,7 +187,6 @@
     "TIL/2023-04-22.md",
     "소소한 정보/bcryptjs 사용기.md",
     "소소한 정보/express 더 깔끔한 logging하기! (with morgan).md",
-    "TIL/2023-04-20.md",
     "책 감상",
     "유용한 사이트",
     "알고리즘",
