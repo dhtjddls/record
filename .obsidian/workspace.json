@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8a9b192198006a8f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +163,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8a9b192198006a8f",
+  "active": "421bf8f500f7885d",
   "lastOpenFiles": [
     "TIL/2023-05-03.md",
     "TIL/2023-05-02.md",
