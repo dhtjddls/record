@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-05-03.md",
+                "file": "TIL/2023-05-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-05-03.md",
+                "file": "TIL/2023-05-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-05-03.md",
+                "file": "TIL/2023-05-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-05-03.md"
+                "file": "TIL/2023-05-04.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "421bf8f500f7885d",
   "lastOpenFiles": [
     "TIL/2023-05-03.md",
+    "TIL/2023-05-04.md",
     "TIL/2023-05-02.md",
     "TIL/2023-05-01.md",
     "유용한 사이트.md",
@@ -194,7 +195,6 @@
     "TIL/2023-04-21.md",
     "TIL/2023-04-22.md",
     "소소한 정보/bcryptjs 사용기.md",
-    "소소한 정보/express 더 깔끔한 logging하기! (with morgan).md",
     "책 감상",
     "유용한 사이트",
     "알고리즘",
