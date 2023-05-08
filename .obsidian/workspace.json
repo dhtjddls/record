@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-05-06.md",
+                "file": "WIL/WIL 2023.05.07 CORS.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-05-06.md",
+                "file": "WIL/WIL 2023.05.07 CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-05-06.md",
+                "file": "WIL/WIL 2023.05.07 CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-05-06.md"
+                "file": "WIL/WIL 2023.05.07 CORS.md"
               }
             }
           },
@@ -165,15 +165,17 @@
   },
   "active": "4da292e9ddfcaed3",
   "lastOpenFiles": [
-    "TIL/2023-05-05.md",
+    "WIL/WIL Template.md",
+    "WIL/WIL 2023.05.07 CORS.md",
+    "jest-report.png",
     "TIL/2023-05-06.md",
+    "TIL/2023-05-05.md",
     "TIL/2023-04-27.md",
     "TIL/2023-05-01.md",
     "TIL/2023-04-28.md",
     "TIL/2023-04-29.md",
     "TIL/2023-05-02.md",
     "TIL/2023-05-03.md",
-    "jest-report.png",
     "무제 파일.canvas",
     "TIL/2023-05-07.md",
     "TIL/2023-05-04.md",
@@ -183,7 +185,6 @@
     "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
     "TIL/2023-04-25.md",
     "TIL/2023-04-26.md",
-    "WIL/WIL Template.md",
     "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
     "TIL/2023-04-24.md",
     "TIL/TIL Template.md",
@@ -192,7 +193,6 @@
     "JS DEEP DIVE/ECMA6 매개변수 기본값, Rest 파라미터, Spread 문법, Rest, Spread 프로퍼티.md",
     "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
     "JS DEEP DIVE/ECMA6 디스트럭처링(구조분해).md",
-    "JS DEEP DIVE/ECMA6 객체 리터럴 프로퍼티 기능 확장.md",
     "Pasted image 20230421113516.png",
     "Pasted image 20230413171816.png",
     "책 감상",
