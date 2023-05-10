@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-05-08.md",
+                "file": "TIL/2023-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-05-08.md",
+                "file": "TIL/2023-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-05-08.md",
+                "file": "TIL/2023-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-05-08.md"
+                "file": "TIL/2023-04-17.md"
               }
             }
           },
@@ -165,11 +165,12 @@
   },
   "active": "4da292e9ddfcaed3",
   "lastOpenFiles": [
+    "TIL/2023-05-09.md",
     "WIL/WIL 2023.05.07 CORS.md",
+    "TIL/2023-05-06.md",
     "TIL/2023-05-08.md",
     "WIL/WIL Template.md",
     "jest-report.png",
-    "TIL/2023-05-06.md",
     "TIL/2023-05-05.md",
     "TIL/2023-04-27.md",
     "TIL/2023-05-01.md",
@@ -193,7 +194,6 @@
     "JS DEEP DIVE/ECMA6 이터레이션과 for...of 문.md",
     "JS DEEP DIVE/ECMA6 매개변수 기본값, Rest 파라미터, Spread 문법, Rest, Spread 프로퍼티.md",
     "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
-    "JS DEEP DIVE/ECMA6 디스트럭처링(구조분해).md",
     "Pasted image 20230421113516.png",
     "Pasted image 20230413171816.png",
     "책 감상",
