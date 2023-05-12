@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be3b24b9347fab78",
+        "id": "15efb1eef7c862e2",
         "type": "tabs",
         "children": [
           {
-            "id": "986bfebe7ed8c66c",
+            "id": "e15dbd9959ba204e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정리된 정보/Node.js 핵심 키워드.md",
+                "file": "TIL/2023-05-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정리된 정보/Node.js 핵심 키워드.md",
+                "file": "TIL/2023-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정리된 정보/Node.js 핵심 키워드.md",
+                "file": "TIL/2023-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정리된 정보/Node.js 핵심 키워드.md"
+                "file": "TIL/2023-05-11.md"
               }
             }
           },
@@ -163,10 +163,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "986bfebe7ed8c66c",
+  "active": "e15dbd9959ba204e",
   "lastOpenFiles": [
-    "정리된 정보/Node.js 핵심 키워드.md",
     "TIL/2023-05-10.md",
+    "TIL/2023-05-11.md",
+    "정리된 정보/JS - 프로토 타입과 상속.md",
+    "정리된 정보/Node.js 핵심 키워드.md",
+    "책 감상/명상록 - 마르크스 아우렐리우스.md",
+    "책 감상/세이노의 가르침 - 세이노.md",
     "TIL/2023-05-08.md",
     "TIL/2023-05-09.md",
     "TIL/TIL Template.md",
@@ -190,10 +194,6 @@
     "소소한 정보/jest report 자동화하기 (with jest-html-reporter).md",
     "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
     "TIL/2023-04-25.md",
-    "TIL/2023-04-26.md",
-    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
-    "TIL/2023-04-24.md",
-    "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md",
     "Pasted image 20230421113516.png",
     "Pasted image 20230413171816.png",
     "책 감상",
