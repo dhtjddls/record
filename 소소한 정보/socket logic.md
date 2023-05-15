@@ -1,2 +1,5 @@
 
-1. 클라이언트가 
+1. Room
+- roomname, 
+2. Conversation
+- roomname, sender, createdAt, text

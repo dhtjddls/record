@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소소한 정보/socket logic.md",
+                "file": "정리된 정보/node-multer-s3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소소한 정보/socket logic.md",
+                "file": "정리된 정보/node-multer-s3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소소한 정보/socket logic.md",
+                "file": "정리된 정보/node-multer-s3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소소한 정보/socket logic.md"
+                "file": "정리된 정보/node-multer-s3.md"
               }
             }
           },
@@ -165,8 +165,21 @@
   },
   "active": "dd77be2438c7bf7b",
   "lastOpenFiles": [
-    "디자인 패턴/템플릿 패턴.md",
+    "node-s3-multer.png",
+    "유용한 사이트.md",
+    "무제 파일.canvas",
+    "정리된 정보/node-multer-s3.md",
+    "정리된 정보/Refresh Token.md",
+    "Pasted image 20230515193724.png",
+    "정리된 정보/JS - 프로토 타입과 상속.md",
+    "정리된 정보/Node.js 핵심 키워드.md",
+    "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
+    "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
+    "Pasted image 20230421113516.png",
+    "Pasted image 20230413171816.png",
+    "jest-report.png",
     "소소한 정보/socket logic.md",
+    "디자인 패턴/템플릿 패턴.md",
     "WIL/WIL 2023.05.14 협업을 진행하며 느낀 아쉬운 점, 뿌듯한 점.md",
     "TIL/2023-05-09.md",
     "TIL/2023-05-10.md",
@@ -182,21 +195,9 @@
     "디자인 패턴/퍼사드 패턴.md",
     "디자인 패턴",
     "TIL/2023-05-05.md",
-    "정리된 정보/JS - 프로토 타입과 상속.md",
-    "정리된 정보/Node.js 핵심 키워드.md",
     "책 감상/명상록 - 마르크스 아우렐리우스.md",
     "책 감상/세이노의 가르침 - 세이노.md",
-    "TIL/2023-05-08.md",
-    "TIL/2023-05-06.md",
-    "TIL/2023-04-17.md",
-    "WIL/WIL 2023.05.07 CORS.md",
-    "jest-report.png",
-    "TIL/2023-04-27.md",
-    "TIL/2023-05-01.md",
-    "무제 파일.canvas",
     "TypeScript_Handbook",
-    "Pasted image 20230421113516.png",
-    "Pasted image 20230413171816.png",
     "책 감상",
     "유용한 사이트",
     "알고리즘",
