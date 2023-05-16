@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정리된 정보/node-multer-s3.md",
+                "file": "TIL/2023-05-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정리된 정보/node-multer-s3.md",
+                "file": "TIL/2023-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정리된 정보/node-multer-s3.md",
+                "file": "TIL/2023-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정리된 정보/node-multer-s3.md"
+                "file": "TIL/2023-05-15.md"
               }
             }
           },
@@ -165,10 +165,24 @@
   },
   "active": "dd77be2438c7bf7b",
   "lastOpenFiles": [
+    "TIL/2023-05-13.md",
+    "TIL/2023-05-15.md",
+    "TIL/2023-05-12.md",
+    "TIL/2023-05-09.md",
+    "TIL/2023-05-10.md",
+    "TIL/2023-05-11.md",
+    "TIL/2023-04-29.md",
+    "TIL/2023-04-26.md",
+    "TIL/2023-04-28.md",
+    "TIL/2023-04-25.md",
+    "디자인 패턴/비지터 패턴.md",
+    "디자인 패턴/커맨드 패턴.md",
+    "디자인 패턴/템플릿 패턴.md",
+    "디자인 패턴/메멘토 패턴.md",
+    "정리된 정보/node-multer-s3.md",
     "node-s3-multer.png",
     "유용한 사이트.md",
     "무제 파일.canvas",
-    "정리된 정보/node-multer-s3.md",
     "정리된 정보/Refresh Token.md",
     "Pasted image 20230515193724.png",
     "정리된 정보/JS - 프로토 타입과 상속.md",
@@ -179,24 +193,11 @@
     "Pasted image 20230413171816.png",
     "jest-report.png",
     "소소한 정보/socket logic.md",
-    "디자인 패턴/템플릿 패턴.md",
     "WIL/WIL 2023.05.14 협업을 진행하며 느낀 아쉬운 점, 뿌듯한 점.md",
-    "TIL/2023-05-09.md",
-    "TIL/2023-05-10.md",
-    "TIL/2023-05-11.md",
-    "TIL/2023-05-12.md",
-    "TIL/2023-05-13.md",
     "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
     "WIL/WIL Template.md",
     "디자인 패턴/플라이웨이트 패턴.md",
-    "TIL/TIL Template.md",
-    "디자인 패턴/데코레이션 패턴.md",
-    "디자인 패턴/브리지 패턴.md",
-    "디자인 패턴/퍼사드 패턴.md",
     "디자인 패턴",
-    "TIL/2023-05-05.md",
-    "책 감상/명상록 - 마르크스 아우렐리우스.md",
-    "책 감상/세이노의 가르침 - 세이노.md",
     "TypeScript_Handbook",
     "책 감상",
     "유용한 사이트",
