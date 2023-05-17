@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b52b21161712cd1a",
+        "id": "2a32745ced012420",
         "type": "tabs",
         "children": [
           {
-            "id": "dd77be2438c7bf7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/2023-05-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0789598d4ab7aa14",
+            "id": "2b8197c460577e5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,12 +163,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0789598d4ab7aa14",
+  "active": "2b8197c460577e5e",
   "lastOpenFiles": [
-    "memo.md",
-    "TIL/2023-05-16.md",
-    "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
     "정리된 정보/Node.js 핵심 키워드.md",
+    "추가 작성 필.md",
+    "TIL/2023-05-16.md",
+    "정리된 정보/node-multer-s3 (추가작성 필).md",
+    "무제 파일.md",
+    "memo.md",
+    "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
     "소소한 정보/bcryptjs 사용기.md",
     "aws 기본 강의/AWS - IAM.md",
     "TIL/2023-05-15.md",
@@ -199,18 +189,15 @@
     "디자인 패턴/커맨드 패턴.md",
     "디자인 패턴/템플릿 패턴.md",
     "디자인 패턴/메멘토 패턴.md",
-    "정리된 정보/node-multer-s3.md",
     "node-s3-multer.png",
     "유용한 사이트.md",
     "무제 파일.canvas",
     "정리된 정보/Refresh Token.md",
     "Pasted image 20230515193724.png",
     "정리된 정보/JS - 프로토 타입과 상속.md",
-    "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
     "Pasted image 20230421113516.png",
     "Pasted image 20230413171816.png",
     "jest-report.png",
-    "소소한 정보/socket logic.md",
     "디자인 패턴",
     "TypeScript_Handbook",
     "책 감상",
