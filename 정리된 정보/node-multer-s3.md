@@ -6,6 +6,10 @@
 ![[node-s3-multer.png]]
 
 
-각각의 부분 마다 유용했던 게시글들을 첨부드립니다!
+각각의 과정은 게시글을 참고하세요!
 1. aws s3 생성
+   https://bamdule.tistory.com/177
 2. multer, multer-s3, aws-sdk를 통한 미들웨어 생성
+   https://jane-aeiou.tistory.com/85,
+   https://github.com/junkyo974/hanghae_toyproject/blob/main/modules/s3.js
+   해당 글들을 참고하여 middleware 작성
