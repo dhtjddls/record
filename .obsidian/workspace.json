@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memo.md",
+                "file": "TIL/2023-05-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memo.md",
+                "file": "TIL/2023-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memo.md",
+                "file": "TIL/2023-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memo.md"
+                "file": "TIL/2023-05-20.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "b4c8ed5db3ac0b58",
   "lastOpenFiles": [
-    "TIL/2023-05-19.md",
     "memo.md",
+    "TIL/2023-05-20.md",
+    "TIL/2023-05-19.md",
     "TIL/2023-05-18.md",
     "TIL/2023-05-17.md",
     "정리된 정보/node-multer-s3.md",
@@ -193,7 +194,6 @@
     "TIL/2023-04-28.md",
     "TIL/2023-04-25.md",
     "디자인 패턴/비지터 패턴.md",
-    "디자인 패턴/커맨드 패턴.md",
     "무제 파일.canvas",
     "Pasted image 20230515193724.png",
     "Pasted image 20230421113516.png",
