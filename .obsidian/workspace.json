@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-05-20.md",
+                "file": "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-05-20.md",
+                "file": "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-05-20.md",
+                "file": "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-05-20.md"
+                "file": "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md"
               }
             }
           },
@@ -165,8 +165,13 @@
   },
   "active": "b4c8ed5db3ac0b58",
   "lastOpenFiles": [
-    "memo.md",
+    "WIL/WIL 2023.05.14 협업을 진행하며 느낀 아쉬운 점, 뿌듯한 점.md",
+    "WIL/WIL 2023.05.07 CORS.md",
+    "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
+    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
+    "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
     "TIL/2023-05-20.md",
+    "memo.md",
     "TIL/2023-05-19.md",
     "TIL/2023-05-18.md",
     "TIL/2023-05-17.md",
@@ -189,11 +194,6 @@
     "TIL/2023-05-09.md",
     "TIL/2023-05-10.md",
     "TIL/2023-05-11.md",
-    "TIL/2023-04-29.md",
-    "TIL/2023-04-26.md",
-    "TIL/2023-04-28.md",
-    "TIL/2023-04-25.md",
-    "디자인 패턴/비지터 패턴.md",
     "무제 파일.canvas",
     "Pasted image 20230515193724.png",
     "Pasted image 20230421113516.png",
