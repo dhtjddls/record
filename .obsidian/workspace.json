@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-05-24.md",
+                "file": "TIL/2023-05-25.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "502951fba2aa892a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-05-24.md",
+                "file": "TIL/2023-05-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-05-24.md",
+                "file": "TIL/2023-05-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-05-24.md"
+                "file": "TIL/2023-05-25.md"
               }
             }
           },
@@ -174,10 +163,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "502951fba2aa892a",
+  "active": "ef73c65dfaef46ff",
   "lastOpenFiles": [
-    "aws 기본 강의/AWS - IAM.md",
     "TIL/2023-05-24.md",
+    "TIL/2023-05-25.md",
+    "aws 기본 강의/AWS - IAM.md",
     "TIL/2023-05-23.md",
     "TIL/2023-05-22.md",
     "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
@@ -204,7 +194,6 @@
     "TIL/2023-05-15.md",
     "aws 기본 강의",
     "TIL/2023-05-13.md",
-    "TIL/2023-05-12.md",
     "무제 파일.canvas",
     "Pasted image 20230515193724.png",
     "Pasted image 20230421113516.png",
