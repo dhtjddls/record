@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-05-27.md",
+                "file": "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-05-27.md",
+                "file": "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-05-27.md",
+                "file": "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-05-27.md"
+                "file": "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md"
               }
             }
           },
@@ -165,14 +165,15 @@
   },
   "active": "ef73c65dfaef46ff",
   "lastOpenFiles": [
-    "TIL/2023-05-26.md",
+    "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
+    "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
     "TIL/2023-05-27.md",
+    "TIL/2023-05-26.md",
     "TIL/2023-05-25.md",
     "TIL/2023-05-24.md",
     "aws 기본 강의/AWS - IAM.md",
     "TIL/2023-05-23.md",
     "TIL/2023-05-22.md",
-    "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
     "WIL/WIL 2023.05.14 협업을 진행하며 느낀 아쉬운 점, 뿌듯한 점.md",
     "WIL/WIL 2023.05.07 CORS.md",
     "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
@@ -192,7 +193,6 @@
     "소소한 정보/socket logic.md",
     "무제 파일.md",
     "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
-    "소소한 정보/bcryptjs 사용기.md",
     "aws 기본 강의",
     "무제 파일.canvas",
     "Pasted image 20230515193724.png",
