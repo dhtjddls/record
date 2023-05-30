@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
+                "file": "TIL/2023-05-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
+                "file": "TIL/2023-05-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
+                "file": "TIL/2023-05-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md"
+                "file": "TIL/2023-05-29.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "ef73c65dfaef46ff",
   "lastOpenFiles": [
-    "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
     "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
+    "TIL/2023-05-29.md",
+    "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
     "TIL/2023-05-27.md",
     "TIL/2023-05-26.md",
     "TIL/2023-05-25.md",
@@ -192,7 +193,6 @@
     "TIL/2023-05-16.md",
     "소소한 정보/socket logic.md",
     "무제 파일.md",
-    "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
     "aws 기본 강의",
     "무제 파일.canvas",
     "Pasted image 20230515193724.png",
