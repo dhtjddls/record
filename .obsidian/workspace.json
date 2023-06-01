@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-05-31.md",
+                "file": "유용한 사이트.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-05-31.md",
+                "file": "유용한 사이트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-05-31.md",
+                "file": "유용한 사이트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-05-31.md"
+                "file": "유용한 사이트.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "db38b07c9eb5365a",
   "lastOpenFiles": [
-    "TIL/2023-05-10.md",
+    "추가 작성 필.md",
     "TIL/2023-05-31.md",
+    "TIL/2023-05-10.md",
     "TIL/2023-05-11.md",
     "TIL/2023-05-09.md",
     "TIL/2023-05-18.md",
@@ -190,7 +191,6 @@
     "WIL/WIL 2023.05.14 협업을 진행하며 느낀 아쉬운 점, 뿌듯한 점.md",
     "WIL/WIL 2023.05.07 CORS.md",
     "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
-    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
     "node-s3-multer.png",
     "jest-report.png",
     "aws 기본 강의",
