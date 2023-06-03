@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ea05b99672ea65",
+        "id": "ca09fb203f1770d3",
         "type": "tabs",
         "children": [
           {
-            "id": "db38b07c9eb5365a",
+            "id": "f33c72292691113c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL/2023-06-01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-06-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TIL/2023-06-01.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,11 +155,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "db38b07c9eb5365a",
+  "active": "f33c72292691113c",
   "lastOpenFiles": [
-    "유용한 사이트.md",
-    "TIL/2023-06-01.md",
+    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
+    "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
+    "무제 파일.canvas",
+    "memo.md",
+    "jest-report.png",
     "추가 작성 필.md",
+    "유용한 사이트.md",
+    "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
+    "정리된 정보/JS - 프로토 타입과 상속.md",
+    "TIL/2023-06-03.md",
+    "TIL/TIL Template.md",
+    "무제 파일.md",
+    "TIL/2023-06-02.md",
+    "TIL/2023-06-01.md",
     "TIL/2023-05-31.md",
     "TIL/2023-05-10.md",
     "TIL/2023-05-11.md",
@@ -182,19 +185,8 @@
     "TIL/2023-05-24.md",
     "TIL/2023-05-22.md",
     "TIL/2023-05-20.md",
-    "TIL/2023-05-17.md",
-    "정리된 정보/Node.js 핵심 키워드.md",
-    "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
-    "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
-    "WIL/WIL 2023.05.21 협업을 진행하며 느낀 아쉬운 점.md",
-    "TIL/2023-05-26.md",
-    "aws 기본 강의/AWS - IAM.md",
-    "TIL/2023-05-23.md",
-    "WIL/WIL 2023.05.14 협업을 진행하며 느낀 아쉬운 점, 뿌듯한 점.md",
     "node-s3-multer.png",
-    "jest-report.png",
     "aws 기본 강의",
-    "무제 파일.canvas",
     "Pasted image 20230515193724.png",
     "Pasted image 20230421113516.png",
     "Pasted image 20230413171816.png",
