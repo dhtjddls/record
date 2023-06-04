@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ca09fb203f1770d3",
+        "id": "7c17020018eddfd4",
         "type": "tabs",
         "children": [
           {
-            "id": "f33c72292691113c",
+            "id": "9bb42465530f41b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TIL/2023-06-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0821f0ff2085a0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/2023-06-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TIL/2023-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TIL/2023-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TIL/2023-06-03.md"
+              }
             }
           },
           {
@@ -155,8 +176,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f33c72292691113c",
+  "active": "0821f0ff2085a0cc",
   "lastOpenFiles": [
+    "CS-Study/CS study - CPU와 메모리.md",
+    "TIL/2023-06-03.md",
+    "CS-Study",
+    "TIL/2023-06-02.md",
+    "TIL/2023-04-11.md",
     "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
     "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
     "무제 파일.canvas",
@@ -166,10 +192,8 @@
     "유용한 사이트.md",
     "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
     "정리된 정보/JS - 프로토 타입과 상속.md",
-    "TIL/2023-06-03.md",
     "TIL/TIL Template.md",
     "무제 파일.md",
-    "TIL/2023-06-02.md",
     "TIL/2023-06-01.md",
     "TIL/2023-05-31.md",
     "TIL/2023-05-10.md",
@@ -182,9 +206,6 @@
     "TIL/2023-05-29.md",
     "TIL/2023-05-27.md",
     "TIL/2023-05-25.md",
-    "TIL/2023-05-24.md",
-    "TIL/2023-05-22.md",
-    "TIL/2023-05-20.md",
     "node-s3-multer.png",
     "aws 기본 강의",
     "Pasted image 20230515193724.png",
@@ -198,7 +219,6 @@
     "Untitled.canvas",
     "CLEAN CODE",
     "JS DEEP DIVE",
-    "정리된 정보",
-    "소소한 정보"
+    "정리된 정보"
   ]
 }
