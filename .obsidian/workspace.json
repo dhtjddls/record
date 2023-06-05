@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-06-03.md",
+                "file": "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-06-03.md",
+                "file": "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-06-03.md",
+                "file": "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-06-03.md"
+                "file": "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md"
               }
             }
           },
@@ -178,12 +178,16 @@
   },
   "active": "0821f0ff2085a0cc",
   "lastOpenFiles": [
-    "CS-Study/CS study - CPU와 메모리.md",
+    "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
+    "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
+    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
+    "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
+    "WIL/WIL Template.md",
     "TIL/2023-06-03.md",
+    "CS-Study/CS study - CPU와 메모리.md",
     "CS-Study",
     "TIL/2023-06-02.md",
     "TIL/2023-04-11.md",
-    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
     "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
     "무제 파일.canvas",
     "memo.md",
@@ -203,9 +207,6 @@
     "TIL/2023-05-19.md",
     "TIL/2023-05-12.md",
     "TIL/2023-05-30.md",
-    "TIL/2023-05-29.md",
-    "TIL/2023-05-27.md",
-    "TIL/2023-05-25.md",
     "node-s3-multer.png",
     "aws 기본 강의",
     "Pasted image 20230515193724.png",
