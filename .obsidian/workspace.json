@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7c17020018eddfd4",
+        "id": "3d34a0afbf2cefae",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb42465530f41b4",
+            "id": "b1cb95fd464274cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정리된 정보/Refresh Token.md",
+                "file": "TIL/2023-06-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정리된 정보/Refresh Token.md",
+                "file": "TIL/2023-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정리된 정보/Refresh Token.md",
+                "file": "TIL/2023-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정리된 정보/Refresh Token.md"
+                "file": "TIL/2023-06-07.md"
               }
             }
           },
@@ -163,10 +163,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9bb42465530f41b4",
+  "active": "b1cb95fd464274cb",
   "lastOpenFiles": [
-    "정리된 정보/node-multer-s3.md",
+    "TIL/2023-06-07.md",
     "정리된 정보/Refresh Token.md",
+    "정리된 정보/node-multer-s3.md",
     "정리된 정보/Node.js 핵심 키워드.md",
     "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
     "정리된 정보/JS - 프로토 타입과 상속.md",
@@ -193,7 +194,6 @@
     "TIL/2023-06-01.md",
     "TIL/2023-05-31.md",
     "TIL/2023-05-10.md",
-    "TIL/2023-05-11.md",
     "node-s3-multer.png",
     "aws 기본 강의",
     "Pasted image 20230515193724.png",
