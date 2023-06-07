@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-06-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0821f0ff2085a0cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
+                "file": "정리된 정보/Refresh Token.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
+                "file": "정리된 정보/Refresh Token.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
+                "file": "정리된 정보/Refresh Token.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md"
+                "file": "정리된 정보/Refresh Token.md"
               }
             }
           },
@@ -176,37 +163,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0821f0ff2085a0cc",
+  "active": "9bb42465530f41b4",
   "lastOpenFiles": [
-    "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
+    "정리된 정보/node-multer-s3.md",
+    "정리된 정보/Refresh Token.md",
+    "정리된 정보/Node.js 핵심 키워드.md",
+    "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
+    "정리된 정보/JS - 프로토 타입과 상속.md",
+    "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
+    "TIL/2023-06-06.md",
+    "TIL/2023-06-05.md",
+    "TIL/2023-06-03.md",
     "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
+    "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
     "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
     "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
     "WIL/WIL Template.md",
-    "TIL/2023-06-03.md",
     "CS-Study/CS study - CPU와 메모리.md",
     "CS-Study",
     "TIL/2023-06-02.md",
     "TIL/2023-04-11.md",
-    "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
     "무제 파일.canvas",
     "memo.md",
     "jest-report.png",
     "추가 작성 필.md",
     "유용한 사이트.md",
-    "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
-    "정리된 정보/JS - 프로토 타입과 상속.md",
     "TIL/TIL Template.md",
     "무제 파일.md",
     "TIL/2023-06-01.md",
     "TIL/2023-05-31.md",
     "TIL/2023-05-10.md",
     "TIL/2023-05-11.md",
-    "TIL/2023-05-09.md",
-    "TIL/2023-05-18.md",
-    "TIL/2023-05-19.md",
-    "TIL/2023-05-12.md",
-    "TIL/2023-05-30.md",
     "node-s3-multer.png",
     "aws 기본 강의",
     "Pasted image 20230515193724.png",
