@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-06-07.md",
+                "file": "TIL/2023-06-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-06-07.md",
+                "file": "TIL/2023-06-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-06-07.md",
+                "file": "TIL/2023-06-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-06-07.md"
+                "file": "TIL/2023-06-08.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "b1cb95fd464274cb",
   "lastOpenFiles": [
     "TIL/2023-06-07.md",
+    "TIL/2023-06-08.md",
     "정리된 정보/Refresh Token.md",
     "정리된 정보/node-multer-s3.md",
     "정리된 정보/Node.js 핵심 키워드.md",
@@ -193,7 +194,6 @@
     "무제 파일.md",
     "TIL/2023-06-01.md",
     "TIL/2023-05-31.md",
-    "TIL/2023-05-10.md",
     "node-s3-multer.png",
     "aws 기본 강의",
     "Pasted image 20230515193724.png",
