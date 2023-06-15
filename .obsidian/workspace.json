@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-06-13.md",
+                "file": "TIL/2023-06-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-06-13.md",
+                "file": "TIL/2023-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-06-13.md",
+                "file": "TIL/2023-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-06-13.md"
+                "file": "TIL/2023-06-14.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "8f62deac7b84c7b6",
   "lastOpenFiles": [
-    "TIL/2023-06-12.md",
     "TIL/2023-06-13.md",
+    "TIL/2023-06-14.md",
+    "TIL/2023-06-12.md",
     "WIL/WIL 2023.06.11 협업을 진행하며 느낀 점.md",
     "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
     "TIL/2023-06-10.md",
@@ -193,7 +194,6 @@
     "TIL/2023-06-02.md",
     "TIL/2023-04-11.md",
     "무제 파일.canvas",
-    "memo.md",
     "jest-report.png",
     "node-s3-multer.png",
     "aws 기본 강의",
