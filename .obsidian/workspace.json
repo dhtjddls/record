@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-06-16.md",
+                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-06-16.md",
+                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-06-16.md",
+                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-06-16.md"
+                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md"
               }
             }
           },
@@ -165,11 +165,11 @@
   },
   "active": "8f62deac7b84c7b6",
   "lastOpenFiles": [
-    "TIL/2023-06-15.md",
-    "TIL/2023-06-16.md",
+    "CS-Study/CS study - CPU와 메모리 심화.md",
     "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
     "CS-Study/CS study - CPU와 메모리.md",
-    "CS-Study/CS study - CPU와 메모리 심화.md",
+    "TIL/2023-06-16.md",
+    "TIL/2023-06-15.md",
     "TIL/2023-06-14.md",
     "TIL/2023-06-13.md",
     "TIL/2023-06-12.md",
