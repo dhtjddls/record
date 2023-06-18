@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
+                "file": "정리된 정보/node-multer-s3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
+                "file": "정리된 정보/node-multer-s3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
+                "file": "정리된 정보/node-multer-s3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md"
+                "file": "정리된 정보/node-multer-s3.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "8f62deac7b84c7b6",
   "lastOpenFiles": [
-    "CS-Study/CS study - CPU와 메모리 심화.md",
     "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
+    "CS-Study/CS study - CPU와 메모리 심화.md",
+    "TIL/2023-06-17.md",
     "CS-Study/CS study - CPU와 메모리.md",
     "TIL/2023-06-16.md",
     "TIL/2023-06-15.md",
@@ -191,7 +192,6 @@
     "TIL/2023-06-03.md",
     "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
     "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
-    "WIL/WIL 2023.04.30 ORM, noSQL, SQL.md",
     "CS-Study",
     "무제 파일.canvas",
     "jest-report.png",
