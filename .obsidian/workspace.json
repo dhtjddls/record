@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정리된 정보/node-multer-s3.md",
+                "file": "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정리된 정보/node-multer-s3.md",
+                "file": "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정리된 정보/node-multer-s3.md",
+                "file": "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정리된 정보/node-multer-s3.md"
+                "file": "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md"
               }
             }
           },
@@ -165,6 +165,9 @@
   },
   "active": "8f62deac7b84c7b6",
   "lastOpenFiles": [
+    "WIL/WIL 2023.06.11 협업을 진행하며 느낀 점.md",
+    "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
+    "정리된 정보/node-multer-s3.md",
     "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
     "CS-Study/CS study - CPU와 메모리 심화.md",
     "TIL/2023-06-17.md",
@@ -174,7 +177,6 @@
     "TIL/2023-06-14.md",
     "TIL/2023-06-13.md",
     "TIL/2023-06-12.md",
-    "WIL/WIL 2023.06.11 협업을 진행하며 느낀 점.md",
     "WIL/WIL 2023.06.04 협업을 진행하며 느낀 점.md",
     "TIL/2023-06-10.md",
     "TIL/2023-06-11.md",
@@ -182,7 +184,6 @@
     "TIL/2023-06-08.md",
     "TIL/2023-06-07.md",
     "정리된 정보/Refresh Token.md",
-    "정리된 정보/node-multer-s3.md",
     "정리된 정보/Node.js 핵심 키워드.md",
     "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
     "정리된 정보/JS - 프로토 타입과 상속.md",
@@ -191,7 +192,6 @@
     "TIL/2023-06-05.md",
     "TIL/2023-06-03.md",
     "WIL/WIL 2023.05.28 협업을 진행하며 느낀 점.md",
-    "WIL/WIL 2023.04.16 node, express 미들웨어, RESTful.md",
     "CS-Study",
     "무제 파일.canvas",
     "jest-report.png",
