@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-06-19.md",
+                "file": "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-06-19.md",
+                "file": "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-06-19.md",
+                "file": "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-06-19.md"
+                "file": "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md"
               }
             }
           },
@@ -163,10 +163,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8f62deac7b84c7b6",
+  "active": "ad7399bbfb45d526",
   "lastOpenFiles": [
-    "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
+    "소소한 정보/정규 표현식(RegEx).md",
+    "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
     "TIL/2023-06-19.md",
+    "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
     "WIL/WIL 2023.06.11 협업을 진행하며 느낀 점.md",
     "정리된 정보/node-multer-s3.md",
     "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
@@ -190,8 +192,6 @@
     "정리된 정보/JS - 프로토 타입과 상속.md",
     "정리된 정보/💲 연봉 1억 대기업 개발자 되기! 특강 (with 김태선님).md",
     "TIL/2023-06-06.md",
-    "TIL/2023-06-05.md",
-    "TIL/2023-06-03.md",
     "CS-Study",
     "무제 파일.canvas",
     "jest-report.png",
