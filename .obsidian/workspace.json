@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-06-21.md",
+                "file": "memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-06-21.md",
+                "file": "memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-06-21.md",
+                "file": "memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-06-21.md"
+                "file": "memo.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "eca6186184cd09d1",
   "lastOpenFiles": [
-    "CS-Study/DB Index.md",
+    "jest-report.png",
+    "무제 파일.canvas",
     "TIL/2023-06-21.md",
+    "CS-Study/DB Index.md",
     "Pasted image 20230621152131.png",
     "Pasted image 20230621152126.png",
     "Pasted image 20230621152109.png",
@@ -194,10 +196,7 @@
     "TIL/2023-06-07.md",
     "정리된 정보/Refresh Token.md",
     "정리된 정보/Node.js 핵심 키워드.md",
-    "정리된 정보/시행 착오 그건 착오가 아니야! (with 최원장 코치님).md",
     "CS-Study",
-    "무제 파일.canvas",
-    "jest-report.png",
     "node-s3-multer.png",
     "aws 기본 강의",
     "Pasted image 20230515193724.png",
