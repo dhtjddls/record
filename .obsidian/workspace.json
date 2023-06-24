@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memo.md",
+                "file": "TIL/2023-06-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memo.md",
+                "file": "TIL/2023-06-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memo.md",
+                "file": "TIL/2023-06-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memo.md"
+                "file": "TIL/2023-06-24.md"
               }
             }
           },
@@ -165,12 +165,13 @@
   },
   "active": "62bef8e7d96c865a",
   "lastOpenFiles": [
-    "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
-    "memo.md",
     "CS-Study/CS study 쓰레드와 쓰레드 풀.md",
     "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
-    "TIL/2023-06-23.md",
+    "TIL/2023-06-24.md",
+    "memo.md",
     "CS-Study/DB Index.md",
+    "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
+    "TIL/2023-06-23.md",
     "TIL/2023-06-16.md",
     "TIL/2023-06-17.md",
     "TIL/2023-06-19.md",
@@ -196,7 +197,6 @@
     "TIL/2023-06-11.md",
     "스크린샷.png",
     "TIL/2023-06-08.md",
-    "TIL/2023-06-07.md",
     "CS-Study",
     "node-s3-multer.png",
     "aws 기본 강의",
