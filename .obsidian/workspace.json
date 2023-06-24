@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68dcf38005f1e330",
+        "id": "6d78a2b79964d28a",
         "type": "tabs",
         "children": [
           {
-            "id": "eca6186184cd09d1",
+            "id": "62bef8e7d96c865a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-Study/CS study 쓰레드와 쓰레드 풀.md",
+                "file": "memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS-Study/CS study 쓰레드와 쓰레드 풀.md",
+                "file": "memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS-Study/CS study 쓰레드와 쓰레드 풀.md",
+                "file": "memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS-Study/CS study 쓰레드와 쓰레드 풀.md"
+                "file": "memo.md"
               }
             }
           },
@@ -163,13 +163,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eca6186184cd09d1",
+  "active": "62bef8e7d96c865a",
   "lastOpenFiles": [
-    "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
+    "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
+    "memo.md",
     "CS-Study/CS study 쓰레드와 쓰레드 풀.md",
+    "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
     "TIL/2023-06-23.md",
     "CS-Study/DB Index.md",
-    "memo.md",
     "TIL/2023-06-16.md",
     "TIL/2023-06-17.md",
     "TIL/2023-06-19.md",
@@ -180,7 +181,6 @@
     "Pasted image 20230621152131.png",
     "Pasted image 20230621152126.png",
     "Pasted image 20230621152109.png",
-    "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
     "소소한 정보/정규 표현식(RegEx).md",
     "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
     "WIL/WIL 2023.06.11 협업을 진행하며 느낀 점.md",
