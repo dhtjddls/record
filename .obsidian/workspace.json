@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2023-06-24.md",
+                "file": "memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TIL/2023-06-24.md",
+                "file": "memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TIL/2023-06-24.md",
+                "file": "memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TIL/2023-06-24.md"
+                "file": "memo.md"
               }
             }
           },
@@ -165,9 +165,9 @@
   },
   "active": "62bef8e7d96c865a",
   "lastOpenFiles": [
+    "TIL/2023-06-24.md",
     "CS-Study/CS study 쓰레드와 쓰레드 풀.md",
     "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
-    "TIL/2023-06-24.md",
     "memo.md",
     "CS-Study/DB Index.md",
     "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
