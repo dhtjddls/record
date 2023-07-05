@@ -7,6 +7,3 @@
 
 왜 만들었지?
 관심사가 안 보인다.
-![[Pasted image 20230703223356.png]]
-
-[https://www.notion.so/hh99-14-hyunsu/134250beb61640e3a97d5d2e6311c4bf](https://www.notion.so/hh99-14-hyunsu/134250beb61640e3a97d5d2e6311c4bf)
