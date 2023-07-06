@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dart/variable.md",
+                "file": "정리된 정보/Node 주특기 기초 지식.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart/variable.md",
+                "file": "정리된 정보/Node 주특기 기초 지식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart/variable.md",
+                "file": "정리된 정보/Node 주특기 기초 지식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart/variable.md"
+                "file": "정리된 정보/Node 주특기 기초 지식.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "62bef8e7d96c865a",
   "lastOpenFiles": [
-    "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
+    "정리된 정보/Node.js 핵심 키워드.md",
+    "정리된 정보/Node 주특기 기초 지식.md",
     "Dart/variable.md",
+    "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
     "Dart",
     "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
     "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md",
@@ -191,8 +193,6 @@
     "WIL/WIL 2023.06.25 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
     "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
     "TIL/2023-06-24.md",
-    "CS-Study/DB Index.md",
-    "소소한 정보/배포 정리 ( AWS EC2, GITHUB, PM2, 가비아 ).md",
     "jest-report.png",
     "무제 파일.canvas",
     "Pasted image 20230621152131.png",
