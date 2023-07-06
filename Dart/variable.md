@@ -1,0 +1,7 @@
+- final - JS의 const
+- const -  compile-time에 알고 있는 상수, 컴파일할 때 알고 있는 값, API로 패치해 오는 값 말고! 환경 변수처럼! 앱 내에서 사용할 상수들
+- nullable => ? like nico?.isEmpty()
+- late - 나중에 값을 작성할게 =? late final name 나중에 name이라는 final 변수에 값을 넣을 거야
+- var - JS의 var
+- dynamic => 아무거나 타입(자동 추론)
+- type으로 선언해두 돼! (ex: int, String, )
