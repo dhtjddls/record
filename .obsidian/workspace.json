@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정리된 정보/Node 주특기 기초 지식.md",
+                "file": "Dart/functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정리된 정보/Node 주특기 기초 지식.md",
+                "file": "Dart/functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정리된 정보/Node 주특기 기초 지식.md",
+                "file": "Dart/functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정리된 정보/Node 주특기 기초 지식.md"
+                "file": "Dart/functions.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "62bef8e7d96c865a",
   "lastOpenFiles": [
-    "정리된 정보/Node.js 핵심 키워드.md",
-    "정리된 정보/Node 주특기 기초 지식.md",
+    "Dart/datatypes.md",
+    "Dart/functions.md",
     "Dart/variable.md",
+    "정리된 정보/Node 주특기 기초 지식.md",
+    "정리된 정보/Node.js 핵심 키워드.md",
     "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
     "Dart",
     "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
@@ -191,8 +193,6 @@
     "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
     "CS-Study/CS study - DB구조와 유형.md",
     "WIL/WIL 2023.06.25 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
-    "WIL/WIL 2023.06.18 실전프로젝트를 진행하며 본인이 담당했던 기능 정리.md",
-    "TIL/2023-06-24.md",
     "jest-report.png",
     "무제 파일.canvas",
     "Pasted image 20230621152131.png",
