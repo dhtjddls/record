@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정리된 정보/Node 주특기 기초 지식.md",
+                "file": "Dart/class.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정리된 정보/Node 주특기 기초 지식.md",
+                "file": "Dart/class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정리된 정보/Node 주특기 기초 지식.md",
+                "file": "Dart/class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정리된 정보/Node 주특기 기초 지식.md"
+                "file": "Dart/class.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "62bef8e7d96c865a",
   "lastOpenFiles": [
-    "JS DEEP DIVE/12장 - 함수.md",
     "정리된 정보/Node 주특기 기초 지식.md",
+    "Dart/class.md",
+    "JS DEEP DIVE/12장 - 함수.md",
     "JS DEEP DIVE/13장 - 타입 체크.md",
     "JS DEEP DIVE/14장 - 프로토 타입.md",
     "JS DEEP DIVE/15장 - 스코프.md",
@@ -191,7 +192,6 @@
     "JS DEEP DIVE/6장 - 데이터 타입과 변수.md",
     "memo.md",
     "JS DEEP DIVE/7장 - 연산자.md",
-    "JS DEEP DIVE/5장 - 자바스크립트의 기본 문법.md",
     "Pasted image 20230703223356.png",
     "jest-report.png",
     "무제 파일.canvas",
