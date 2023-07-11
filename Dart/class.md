@@ -148,3 +148,117 @@ name: "jisoung",
 );  
 }  
 ```
+
+예제를 보자  
+```dart  
+// 생략  
+void main(){  
+var jisoung = Player(name: "jisoung", age: 17, description: "Happy code is end coding");  
+jisoung.name = "nico";  
+jisoung = 20;  
+jisoung.description = "Best Project is End Project";  
+}  
+```  
+위를 보면 반복되는 부분이 있다. dart에서는 이걸 간단하게 ..으로 해결할 수 있다.  
+```dart  
+// 생략  
+void main(){  
+var jisoung = Player(name: "jisoung", age: 17, description: "Happy code is end coding");  
+...name = "nico"  
+..age = 20  
+..description = "Best Project is End Project";  
+}  
+```  
+각 '..'들은 jisoung을 가리킨다. 매우 유용한 operator이다.  
+앞에 class가 있다면 그 클래스를 가리킨다.
+
+enum은 우리가 실수하지 않도록 도와주는 타입이다.  
+dart에서 enum type을 만드는 법은 다음과 같다  
+```dart  
+enum Team {  
+red,  
+blue,  
+}  
+class Player {  
+String name;  
+int age;  
+Team team;  
+  
+Player({  
+required this.name,  
+required this.age,  
+required this.team,  
+});  
+}  
+  
+void main(){  
+var jisoung = Player(name: "jisoung", age: 17, team: Team.red);  
+var sushi = jisoung  
+..name = "sushi"  
+..age = 12  
+..team = Team.blue;  
+```
+
+추상화 클래스는 다른 클래스들이 직접 구현 해야하는 메소드들을 모아놓은 일종의 `청사진`이라 보면 된다.  
+추상 클래스에서는 기능을 구현하지 않는다.  
+```dart  
+abstract class Human {  
+void walk();  
+}  
+```  
+extends를 이용해 상속, 확장을 할 수 있다.  
+```dart  
+abstract class Human {  
+void walk();  
+}  
+class Player extends Human {  
+// 생략  
+void walk(){  
+print("working!");  
+}  
+}  
+```
+
+상속을 하고 super를 이용해 부모 클래스의 생성자를 호출할 수 있다.  
+```dart  
+class Human {  
+final String name;  
+Human(this.name); // 호출 받는다.  
+void sayHello(){  
+print("Hello! $name");  
+}  
+}  
+  
+class Player extends Human {  
+Player({  
+required this.team,  
+required String name  
+}) : super(name: name);  
+// Human의 생성자 함수를 호출한다.  
+}  
+```  
+
+==@override==를 이용해 부모 클래스의 객체를 받아올 수 있다.  
+```dart  
+// 생략  
+==@override==  
+void sayHello(){  
+super.sayHello();  
+}
+```
+
+## Mixins  
+Mixin은 생성자가 없는 클래스를 의미한다.  
+Mixin 클래스는 상속을 할 때 extends를 하지 않고 with 를 사용한다.  
+Mixin의 핵심은 여러 클래스에 재사용이 가능하다는 점이다.  
+```dart  
+class Tall {  
+final double tall = "190.00"  
+}  
+  
+class Human with Tail {  
+// 생략  
+print(tall) // "190.00"
+}  
+```  
+extends와 차이점은 extend를 하게 되면 확장한 그 클래스는 부모 클래스가 되지만 with는 부모의 인스턴스 관계가 된다. 단순하게 mixin 내부의 프로퍼티를 갖고 오는 거라고 생각하면 쉽다.

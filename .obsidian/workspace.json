@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d78a2b79964d28a",
+        "id": "81da0942bf63c082",
         "type": "tabs",
         "children": [
           {
-            "id": "62bef8e7d96c865a",
+            "id": "fc85c5298155a309",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,10 +163,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "62bef8e7d96c865a",
+  "active": "fc85c5298155a309",
   "lastOpenFiles": [
-    "정리된 정보/Node 주특기 기초 지식.md",
+    "Dart/variable.md",
     "Dart/class.md",
+    "정리된 정보/Node 주특기 기초 지식.md",
     "JS DEEP DIVE/12장 - 함수.md",
     "JS DEEP DIVE/13장 - 타입 체크.md",
     "JS DEEP DIVE/14장 - 프로토 타입.md",
@@ -184,7 +185,6 @@
     "정리된 정보/Node.js 핵심 키워드.md",
     "Dart/functions.md",
     "Dart/datatypes.md",
-    "Dart/variable.md",
     "Dart",
     "JS DEEP DIVE/ECMA6 이터레이션과 for...of 문.md",
     "JS DEEP DIVE/10장 - 객체.md",
