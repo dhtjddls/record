@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-Study/Git & Git flow.md",
+                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS-Study/Git & Git flow.md",
+                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS-Study/Git & Git flow.md",
+                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS-Study/Git & Git flow.md"
+                "file": "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md"
               }
             }
           },
@@ -165,13 +165,16 @@
   },
   "active": "fc85c5298155a309",
   "lastOpenFiles": [
-    "CS-Study/CS study - CPU와 메모리.md",
     "CS-Study/Git & Git flow.md",
-    "CS-Study/CS study - CPU와 메모리 심화.md",
-    "CS-Study/CS study - DB구조와 유형.md",
-    "CS-Study/CS study 쓰레드와 쓰레드 풀.md",
-    "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
     "CS-Study/DB Index.md",
+    "CS-Study/CS study 프로세스 생명주기와 프로세스 메모리.md",
+    "CS-Study/CS study 쓰레드와 쓰레드 풀.md",
+    "CS-Study/CS study - DB구조와 유형.md",
+    "CS-Study/CS study - CPU와 메모리 심화.md",
+    "CS-Study/CS study - CPU와 메모리.md",
+    "Pasted image 20230712172354.png",
+    "Pasted image 20230712172205.png",
+    "Pasted image 20230712172020.png",
     "Dart/class.md",
     "Dart/variable.md",
     "정리된 정보/Node 주특기 기초 지식.md",
@@ -190,7 +193,6 @@
     "JS DEEP DIVE/ECMA6 매개변수 기본값, Rest 파라미터, Spread 문법, Rest, Spread 프로퍼티.md",
     "JS DEEP DIVE/ECMA6 디스트럭처링(구조분해).md",
     "정리된 정보/Node.js 핵심 키워드.md",
-    "Dart/functions.md",
     "Dart",
     "Pasted image 20230703223356.png",
     "jest-report.png",
@@ -202,9 +204,6 @@
     "CS-Study",
     "node-s3-multer.png",
     "aws 기본 강의",
-    "Pasted image 20230515193724.png",
-    "Pasted image 20230421113516.png",
-    "Pasted image 20230413171816.png",
     "디자인 패턴",
     "TypeScript_Handbook",
     "책 감상",
