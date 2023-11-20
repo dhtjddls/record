@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "67092f33b253f02b",
+        "id": "7fd717b4579bde66",
         "type": "tabs",
         "children": [
           {
-            "id": "30bff7565e2efc92",
+            "id": "fe3bbe05873b9a1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "django-rest-freamwork/django-rest-framework.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "django-rest-freamwork/django-rest-framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "django-rest-freamwork/django-rest-framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "django-rest-freamwork/django-rest-framework.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +155,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30bff7565e2efc92",
+  "active": "fe3bbe05873b9a1d",
   "lastOpenFiles": [
     "django-rest-freamwork/django-rest-framework.md",
     "django-rest-freamwork",
