@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소소한 정보/무제 파일.md",
+                "file": "채용 정보.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소소한 정보/무제 파일.md",
+                "file": "채용 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소소한 정보/무제 파일.md",
+                "file": "채용 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소소한 정보/무제 파일.md"
+                "file": "채용 정보.md"
               }
             }
           },
@@ -165,6 +165,13 @@
   },
   "active": "fe3bbe05873b9a1d",
   "lastOpenFiles": [
+    "유용한 사이트.md",
+    "채용 정보.md",
+    "jest-report.png",
+    "node-s3-multer.png",
+    "memo.md",
+    "Pasted image 20230421113516.png",
+    "Pasted image 20230413171816.png",
     "소소한 정보/무제 파일.md",
     "django-rest-freamwork/django-rest-framework.md",
     "django-rest-freamwork",
@@ -192,19 +199,12 @@
     "JS DEEP DIVE/30 - 문서 객체 모델(DOM).md",
     "JS DEEP DIVE/31, 34 - 비동기와 Ajax.md",
     "JS DEEP DIVE/ECMA6 제너레이터와 async,await.md",
-    "JS DEEP DIVE/ECMA6 객체 리터럴 프로퍼티 기능 확장.md",
-    "JS DEEP DIVE/ECMA6 매개변수 기본값, Rest 파라미터, Spread 문법, Rest, Spread 프로퍼티.md",
-    "JS DEEP DIVE/ECMA6 디스트럭처링(구조분해).md",
     "Dart",
     "Pasted image 20230703223356.png",
-    "jest-report.png",
     "무제 파일.canvas",
     "Pasted image 20230621152131.png",
     "Pasted image 20230621152126.png",
-    "Pasted image 20230621152109.png",
-    "스크린샷.png",
     "CS-Study",
-    "node-s3-multer.png",
     "aws 기본 강의",
     "디자인 패턴",
     "TypeScript_Handbook",
