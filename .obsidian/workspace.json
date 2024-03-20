@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "소소한 정보/swagger를 편하게 사용하기! (node-express 환경).md",
+                "file": "memo.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "소소한 정보/swagger를 편하게 사용하기! (node-express 환경).md",
+                "file": "memo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "소소한 정보/swagger를 편하게 사용하기! (node-express 환경).md",
+                "file": "memo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "소소한 정보/swagger를 편하게 사용하기! (node-express 환경).md"
+                "file": "memo.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "7b509ddaf7d19bf4",
   "lastOpenFiles": [
+    "소소한 정보/swagger를 편하게 사용하기! (node-express 환경).md",
     "소소한 정보/socket logic.md",
     "소소한 정보/jest report 자동화하기 (with jest-html-reporter).md",
     "소소한 정보/express 더 깔끔한 logging하기! (with morgan).md",
@@ -190,7 +191,6 @@
     "책 감상/세이노의 가르침 - 세이노.md",
     "책 감상/명상록 - 마르크스 아우렐리우스.md",
     "aws 기본 강의/AWS - IAM.md",
-    "CS-Study/CS study - CPU와 메모리.md",
     "jest-report.png",
     "node-s3-multer.png",
     "Pasted image 20230421113516.png",
