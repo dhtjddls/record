@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0268a5f709a6ded4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7b509ddaf7d19bf4",
+  "active": "0268a5f709a6ded4",
   "lastOpenFiles": [
     "소소한 정보/swagger를 편하게 사용하기! (node-express 환경).md",
     "소소한 정보/socket logic.md",
