@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memo.md",
+                "file": "채용 정보.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memo.md",
+                "file": "채용 정보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memo.md",
+                "file": "채용 정보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memo.md"
+                "file": "채용 정보.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "7b509ddaf7d19bf4",
   "lastOpenFiles": [
+    "memo.md",
     "소소한 정보/swagger를 편하게 사용하기! (node-express 환경).md",
     "소소한 정보/socket logic.md",
     "소소한 정보/jest report 자동화하기 (with jest-html-reporter).md",
@@ -182,7 +183,6 @@
     "디자인 패턴/데코레이션 패턴.md",
     "채용 정보.md",
     "유용한 사이트.md",
-    "memo.md",
     "Dart/variable.md",
     "Dart/functions.md",
     "Dart/datatypes.md",
