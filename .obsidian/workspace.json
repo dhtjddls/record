@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "준비"
             }
+          },
+          {
+            "id": "695355dcfaa2964f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a49677a14614f806",
+  "active": "695355dcfaa2964f",
   "lastOpenFiles": [
     "준비.md",
     "memo.md",
