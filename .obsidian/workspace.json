@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.7"
             }
+          },
+          {
+            "id": "12e8907859636fe3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "695355dcfaa2964f",
+  "active": "12e8907859636fe3",
   "lastOpenFiles": [
     "준비.md",
     "memo.md",
