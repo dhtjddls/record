@@ -4,49 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "e8b8deb0d8ab141a",
+        "id": "9f4f2fbf9c6b6690",
         "type": "tabs",
         "children": [
           {
-            "id": "a49677a14614f806",
+            "id": "c7761a977f967c1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "준비.md",
-                "mode": "source",
-                "source": false
+                "file": "데일리 칸반.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "준비"
-            }
-          },
-          {
-            "id": "695355dcfaa2964f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
-          },
-          {
-            "id": "12e8907859636fe3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-trello",
+              "title": "데일리 칸반"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "6f7d54bb50ffd0ac",
@@ -148,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memo.md",
+                "file": "데일리 칸반.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "memo의 나가는 링크"
+              "title": "데일리 칸반 의 나가는 링크"
             }
           },
           {
@@ -192,11 +174,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,11 +189,16 @@
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "12e8907859636fe3",
+  "active": "c7761a977f967c1b",
   "lastOpenFiles": [
+    "유용한 사이트.md",
+    "데일리 칸반.md",
+    "이름 없는 보드 1.md",
     "준비.md",
     "memo.md",
     "무제 파일.canvas",
@@ -231,14 +219,11 @@
     "디자인 패턴/브리지 패턴.md",
     "디자인 패턴/메멘토 패턴.md",
     "디자인 패턴/데코레이션 패턴.md",
-    "유용한 사이트.md",
     "Dart/variable.md",
     "Dart/functions.md",
     "Dart/datatypes.md",
     "Dart/class.md",
     "django-rest-freamwork/django-rest-framework.md",
-    "책 감상/세이노의 가르침 - 세이노.md",
-    "책 감상/명상록 - 마르크스 아우렐리우스.md",
     "jest-report.png",
     "node-s3-multer.png",
     "Pasted image 20230421113516.png",
