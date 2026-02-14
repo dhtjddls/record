@@ -189,9 +189,9 @@
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "c7761a977f967c1b",
